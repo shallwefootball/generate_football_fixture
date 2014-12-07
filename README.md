@@ -10,7 +10,7 @@
 
 ### 배경
 - 공찰래리그의 독특한 리그방식때문에 공정한 리그 일정이 필요했다.
-- (http://www.fixturelist.com/)[http://www.fixturelist.com/] 사이트가 있지만 공평하지 못한 일정이 나오게된다.
+- [http://www.fixturelist.com/](http://www.fixturelist.com/) 사이트가 있지만 공평하지 못한 일정이 나오게된다.
 - 위의 사이트의 example
 
 ```
